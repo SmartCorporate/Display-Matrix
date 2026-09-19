@@ -158,7 +158,7 @@ After saving, the page reports whether the extra message was loaded, cleared, or
 
 ### Live Display Preview
 
-The 160 x 8 canvas previews the selected mode, text, market values, brightness, and scrolling speed. It is an approximate browser rendering of the physical LED output and updates while the controls are edited.
+The 160 x 8 canvas previews the selected mode, text, market values, and brightness. It is an approximate browser rendering of the physical LED output and updates while the controls are edited. The separate **Preview speed** slider changes only the browser animation and does not change the physical display speed.
 
 ### Device Status and Debug
 
